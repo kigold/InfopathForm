@@ -1,5 +1,7 @@
 ﻿# Load an Infopath form from a sharepoint Form Library using C#
 
+This project is a set up for anyone who wants to perform basic automated activities on items in a sharepoint Form Library Using C#.Net.
+
 This code can only be run on a windows Server that has installed Sharepoint (Any sharepoint server connected to the sharepoint farm)
 
 ### Installation
